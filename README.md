@@ -7,9 +7,7 @@ I'm [MUFEED MUSTHAFA NM], a web developer who loves to build beautiful, responsi
 - HTML/CSS
 - JavaScript
 - React
-- Node.js
-- Express.js
-- MongoDB
+
 - Git
 
 ## Education

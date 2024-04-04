@@ -15,5 +15,5 @@ I'm [MUFEED MUSTHAFA NM], a web developer who loves to build beautiful, responsi
 ## Contact me
 
 - Email: mufeedmusthafanm@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/mufeedmusthafa/](link)
+- LinkedIn:https://www.linkedin.com/in/mufeedmusthafa/
 

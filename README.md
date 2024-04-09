@@ -5,7 +5,8 @@ I'm [MUFEED MUSTHAFA NM], a web developer who loves to build beautiful, responsi
 ## Skills
 
 
-- HTML/CSS
+- HTML
+- CSS
 - JavaScript
 - React
 - Redux

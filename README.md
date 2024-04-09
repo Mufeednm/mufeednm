@@ -4,10 +4,10 @@ I'm MUFEED MUSTHAFA NM, a web developer who loves to build beautiful, responsive
 
 ## Skills
 
-
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 - React
 - Redux
 - Git
@@ -20,3 +20,4 @@ I'm MUFEED MUSTHAFA NM, a web developer who loves to build beautiful, responsive
 - LinkedIn:https://www.linkedin.com/in/mufeedmusthafa/
 - LeetCode:https://leetcode.com/MufeedMusthafanm/
 - Call me  : +91 9048047636
+ 

@@ -12,8 +12,8 @@ I'm MUFEED MUSTHAFA NM, a web developer who loves to build beautiful, responsive
 - Redux
 - Git
 - Node js
--  Expressjs
-    -  MongoDB
+- Expressjs
+- MongoDB
   
 
 

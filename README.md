@@ -10,7 +10,7 @@ I'm MUFEED MUSTHAFA NM, a web developer who loves to build beautiful, responsive
 - Bootstrap
 - React
 - Redux
-- Git
+
 - Node js
 - Expressjs
 - MongoDB

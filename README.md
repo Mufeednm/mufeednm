@@ -8,6 +8,7 @@ I'm MUFEED MUSTHAFA NM, a web developer who loves to build beautiful, responsive
 - CSS
 - JavaScript
 - Bootstrap
+- Tailwind CSS
 - React
 - Redux
 

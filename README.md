@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm MUFEED MUSTHAFA NM, a web developer who loves to build beautiful, responsive, and user-friendly  websites .  
+I'm MUFEED MUSTHAFA NM, a web developer who loves to build beautiful, responsive, and user-friendly websites .  
 
 ## Skills
 

@@ -11,6 +11,7 @@ I'm MUFEED MUSTHAFA NM, a web developer who loves to build beautiful, responsive
 - Tailwind CSS
 - React
 - Redux
+- TypeScript
 
 - Node js
 - Expressjs

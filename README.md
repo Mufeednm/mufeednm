@@ -4,19 +4,9 @@ I'm MUFEED MUSTHAFA NM, a web developer who loves to build beautiful, responsive
 
 ## Skills
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Tailwind CSS
-- React
-- Redux
-- TypeScript
+- HTML   - CSS    - JavaScript   - Bootstrap  - Tailwind CSS  - React
 
-- Node js
-- Expressjs
-- MongoDB
-  
+- Redux    - TypeScript      - Node js    - Expressjs     - MongoDB
 
 
 ## Contact me

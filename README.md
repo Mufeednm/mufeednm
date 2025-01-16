@@ -6,7 +6,8 @@ I'm MUFEED MUSTHAFA NM, a web developer who loves to build beautiful, responsive
 
 - HTML   - CSS    - JavaScript   - Bootstrap  - Tailwind CSS  - React
 
-- Redux    - TypeScript      - Node js    - Expressjs     - MongoDB -MYSQL
+- Redux    - TypeScript      - Node js    - Expressjs     - MongoDB    -MYSQL    -PostgreSQL
+
 
 
 ## Contact me

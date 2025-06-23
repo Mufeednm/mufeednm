@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm MUFEED MUSTHAFA NM, a Full developer who loves to build beautiful, responsive, and user-friendly websites with 1 year experience .  
+I'm MUFEED MUSTHAFA NM, a Full developer who loves to build beautiful, responsive, and user-friendly websites with  7 Month  experience .  
 
 ## Skills
 

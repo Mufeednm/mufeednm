@@ -4,10 +4,11 @@ I'm MUFEED MUSTHAFA NM, a Full developer who loves to build beautiful, responsiv
 
 ## Skills
 
-- HTML   - CSS    - JavaScript   - Bootstrap  - Tailwind CSS  - React
+- HTML   - CSS    - JavaScript   - Bootstrap  - Tailwind CSS  - React 
 
 - Redux    - TypeScript      - Node js    - Expressjs     - MongoDB    -MYSQL    -PostgreSQL
-
+  
+- PHP   - Codeigniter 
 
 
 ## Contact me

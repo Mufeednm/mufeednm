@@ -102,7 +102,7 @@ const mufeed = {
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mufeednm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mufeednm&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mufeednm&layout=compact&langs_count=6&theme=tokyonight&hide=c%2B%2B,c,java"/>
 </div>
 
 <div align="center">
@@ -137,8 +137,6 @@ const mufeed = {
 <div align="center">
 
 ### 💫 **"Code is like humor. When you have to explain it, it's bad."** 
-
-![Snake Animation](https://github.com/Mufeednm/Mufeednm/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
